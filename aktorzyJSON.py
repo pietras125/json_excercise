@@ -133,4 +133,5 @@ for i in data:
 #print(actors)
 answer11 = sum(moviesCount)/len(actors)
 print('11. Average movies per actor is',answer11)
+
         
